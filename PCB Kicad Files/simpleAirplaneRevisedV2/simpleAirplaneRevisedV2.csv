@@ -1,0 +1,6 @@
+Reference,Qty,Value,,Cost,Digikey link
+BT1,1,3V,,,
+D1,1,Red,,,https://www.digikey.com/en/products/detail/lumimax-optoelectronic-technology/LEDDC-3REDF/29263566?_gl=1*cc6riv*_up*MQ..&gclid=Cj0KCQjwm8bTBhDWARIsAC9Hi8lzrfUu0ex4Xn9ko2YROW3c-O-ZUbnLHMtAuLp0zJtt6frab50j0uoaAv_VEALw_wcB&gclsrc=aw.ds
+D2,1,White,,,https://www.digikey.com/en/products/detail/lumimax-optoelectronic-technology/LED3WHIF/29263560?_gl=1*5umlls*_up*MQ..&gclid=Cj0KCQjwm8bTBhDWARIsAC9Hi8lzrfUu0ex4Xn9ko2YROW3c-O-ZUbnLHMtAuLp0zJtt6frab50j0uoaAv_VEALw_wcB&gclsrc=aw.ds
+D3,1,Green,,,https://www.digikey.com/en/products/detail/sunled/XBUG34D/4901579?_gl=1*5umlls*_up*MQ..&gclid=Cj0KCQjwm8bTBhDWARIsAC9Hi8lzrfUu0ex4Xn9ko2YROW3c-O-ZUbnLHMtAuLp0zJtt6frab50j0uoaAv_VEALw_wcB&gclsrc=aw.ds
+SW1,1,SW_SPST,,,
