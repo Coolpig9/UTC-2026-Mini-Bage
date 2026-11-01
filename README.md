@@ -48,7 +48,7 @@ Here is the offical unreleased Instruction booklet, The origaial plan was to pri
 [Instruction Booklet](./complexAirplaneInstructions.pdf)
 
 Here too is a flowchart version that may help clairify things in the future!
-![FlowChart](./FlowChart.svg)
+![FlowChart](./FlowChart.png)
 
 # Simple Airplane
 
