@@ -29,6 +29,7 @@ you want to solder it one side at a time (back then front),
 soldering the parts in reverse order of height:
 
 Solder Order
+
     Back:
         1. resistors
         2. ATtiny chip
