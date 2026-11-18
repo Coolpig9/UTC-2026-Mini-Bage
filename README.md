@@ -3,9 +3,9 @@
 This year, it was my responsibility to make our student section Mini Badges. We decided to do two badges this year:
 the "[Complex Airplane](#complex-airplane)" as well as the "[Simple Airplane](#simple-airplane)"
 
-# Complex Airplane
+## Complex Airplane
 
-## Kit Contents
+### Complex Kit Contents
 
 Each kit should contain:
 
@@ -22,7 +22,7 @@ Each kit should contain:
 * 1x Pin and Back
 * 1x Complex Airplane PCP
 
-## Assembly instructions
+### Complex Assembly instructions
 
 The key to doing this one right is taking it slow, 
 you want to solder it one side at a time (back then front),
@@ -41,9 +41,9 @@ Solder Order
         1. buttons
         2. LEDs
 
-## Example Pictures
+### Complex Example Pictures
 
-## Complex Airplane Software Explanation
+### Complex Airplane Software Explanation
 
 Here is the official unreleased Instruction booklet. The original plan was to print these and hand them out, but that didn't end up happening. 
 [Instruction Booklet](./complexAirplaneInstructions.pdf)
@@ -51,9 +51,9 @@ Here is the official unreleased Instruction booklet. The original plan was to pr
 Here too is a flowchart version that may help clarify things!
 ![FlowChart](./FlowChart.png)
 
-# Simple Airplane
+## Simple Airplane
 
-## Kit Contents
+### Simple Kit Contents
 
 Each kit should contain:
 
@@ -66,14 +66,14 @@ Each kit should contain:
 * 1x Pin and Back
 * Simple Airplane PCB
 
-## Assembly instructions
+### Simple Assembly instructions
 
-## Example Pictures
+### Simple Example Pictures
 
-# Would you like to remake one of these badges?
+## Would you like to remake one of these badges?
 
 Perfect! All the stuff you need to recreate these kits is located in this repo!
 
-## Complex
-    
-## Simple
+### Complex
+
+### Simple
