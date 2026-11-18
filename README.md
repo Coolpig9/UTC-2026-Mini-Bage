@@ -1,7 +1,7 @@
 # UTC-2026-Mini-Bage
 
 This year, it was my responsibility to make our student section Mini Badges. We decided to do two badges this year:
-the (Complex Airplane) as well as the [simple Airplane](#simple-airplane)
+the "[Complex Airplane](#complex-airplane)" as well as the "[Simple Airplane](#simple-airplane")
 
 # Complex Airplane
 
